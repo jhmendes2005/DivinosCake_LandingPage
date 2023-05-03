@@ -8,7 +8,6 @@ Este site foi desenvolvido utilizando as seguintes tecnologias:
 
 - HTML
 - CSS
-- JavaScript
 
 As fontes utilizadas são a Pacifico e a Roboto, disponíveis no Google Fonts. O projeto também utiliza o Normalize.css para garantir uma aparência consistente em diferentes navegadores.
 
